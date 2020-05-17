@@ -349,7 +349,7 @@ forever(function () {
     if (INLAVA == 1) {
         info.changeLifeBy(-1)
         pause(1000)
-        music.jumpDown.play()
+        music.siren.play()
     }
 })
 forever(function () {
